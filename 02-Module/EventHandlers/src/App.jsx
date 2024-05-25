@@ -4,7 +4,7 @@ function App() {
   }
   return (
     <>
-      <button onClick={chips()}>Click Me!</button>
+      <button onClick={chips}>Click Me!</button>
     </>
   );
 }
